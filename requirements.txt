@@ -1,0 +1,21 @@
+#geo-energy
+lasio
+# data-science
+numpy
+pandas
+pyarrow
+# machine-learning
+scikit-learn
+xgboost
+# deep-learning
+scikit-image
+torch
+torchvision
+torchsummary
+tqdm
+# unit-testing
+pytest
+# visualization
+matplotlib
+seaborn
+ipympl
