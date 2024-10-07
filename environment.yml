@@ -1,0 +1,17 @@
+name: arcadia
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+ - python==3.11
+ - pip
+ - jupyter
+ - ipython
+ - pytest
+ - pytest-timeout
+ - flake8
+ - sphinx
+ - pip:
+   - -r requirements.txt
